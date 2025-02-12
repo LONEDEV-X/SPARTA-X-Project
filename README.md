@@ -2,13 +2,22 @@
 
 **THIS IS SPARTA-X! Conquer the Crypto Battlefield.**
 
-SPARTA X is a memecoin inspired by the legendary Spartan warriors. Built with strength, discipline, and unbreakable spirit, SPARTA X is here to dominate the crypto world.
+SPARTA X is a memecoin inspired by the legendary Spartan warriors, built on the **Solana blockchain**. This project uses the **SPL Token** standard and includes a custom Rust program for advanced functionality.
 
 ## Features
-- **Battle Royale Rewards**: Stake your tokens and battle for rewards.
-- **300 Club**: Exclusive perks for the top 300 holders.
-- **AI-Powered Spartan NFTs**: Dynamic NFTs that evolve with your achievements.
-- **Battle Arena**: A play-to-earn game where warriors compete for SPARTA X tokens.
+- **SPL Token**: A Solana-based token for the SPARTA X ecosystem.
+- **Rust Program**: Custom smart contract logic for staking, rewards, and more.
+- **Play-to-Earn**: Battle Arena game integrated with Solana.
+- **300 Club**: Exclusive perks for the top 300 token holders.
+- **AI-Powered NFTs**: Dynamic NFTs that evolve with user activity.
 
-## License
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+## Getting Started
+
+### Prerequisites
+- Install the Solana CLI: [Solana CLI Installation Guide](https://docs.solana.com/cli/install-solana-cli-tools)
+- Install Rust: [Rust Installation Guide](https://www.rust-lang.org/tools/install)
+
+### Clone the Repository
+```bash
+git clone https://github.com/your-username/sparta-x-project.git
+cd sparta-x-project
