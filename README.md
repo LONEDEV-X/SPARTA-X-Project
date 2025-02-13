@@ -1,4 +1,4 @@
-# SPARTA X Project ⚔️🛡️
+# SPARTA X Project 
 
 **THIS IS SPARTA-X! Conquer the Crypto Battlefield.**
 
