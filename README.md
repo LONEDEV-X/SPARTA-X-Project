@@ -10,6 +10,7 @@ SPARTA X is a memecoin inspired by the legendary Spartan warriors, built on the 
 - **Play-to-Earn**: Battle Arena game integrated with Solana.
 - **300 Club**: Exclusive perks for the top 300 token holders.
 - **AI-Powered NFTs**: Dynamic NFTs that evolve with user activity.
+- Crypto Coliseum: Creating DAO. A decentralized platform where SPARTAX holders can vote on community decisions.
 
 ## Getting Started
 
