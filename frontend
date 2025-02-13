@@ -1,0 +1,16 @@
+frontend/
+│── src/
+│   ├── components/        # Reusable UI components
+│   ├── pages/
+│   │   ├── index.tsx      # Homepage
+│   │   ├── staking.tsx    # Staking and rewards UI
+│   │   ├── game.tsx       # Battle Arena Play-to-Earn page
+│   │   ├── club.tsx       # 300 Club perks and dashboard
+│   │   ├── mint.tsx       # AI-Powered NFT minting
+│   ├── context/           # Wallet & blockchain connection
+│   ├── utils/             # Helper functions
+│── public/                # Images, icons, assets
+│── package.json           # Dependencies
+│── next.config.js         # Next.js config
+│── tsconfig.json          # TypeScript config
+│── .env                   # Environment variables
